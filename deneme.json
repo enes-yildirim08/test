@@ -1,5 +1,4 @@
-{
-    "results": [
+ [
         {
             "İletişim Değeri Puanı": 10468,
             "Reklam Eşdeğeri(Dolar)": 20.625699543575347,
@@ -20194,6 +20193,4 @@
             "Analiz Tarihi F": "05-03-2022",
             "TotalPoint": 0
         }
-    ],
-    "cumulativeResults": null
-}
+    ]
